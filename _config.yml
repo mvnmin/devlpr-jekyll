@@ -1,10 +1,10 @@
 title: sentertec
 subtitle: The development branch of INCARNET
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  the blog network of INCARNET Minneapolis, MN.
 
 url: "https://mvnmin.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
     - text: Home
@@ -54,7 +54,7 @@ author_education_details:
               - college_logo: mit.png
                 college_name: ORU
                 college_url: https://oru.edu
-                college_degree: Art, Duel minor: Telecom & Graphic Design
+                college_degree: Art with Duel minors in Telecom and Graphic Design
                 description: Bachelor of Art
                 visibility: true
 
